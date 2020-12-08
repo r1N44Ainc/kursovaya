@@ -1,0 +1,3 @@
+Mercury 501
+Venus 108
+Earth 150

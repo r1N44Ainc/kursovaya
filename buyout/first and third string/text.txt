@@ -1,0 +1,6 @@
+fisrt string
+second string
+trird string
+fourth string
+fifth string 
+sixth string
